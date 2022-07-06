@@ -7,6 +7,9 @@ body {
     display: flex;
 }
 
+.h1-font-size {
+    font-size: 50px;
+}
 
 .button {
     text-decoration: none;
@@ -111,4 +114,54 @@ hr {
 
 #button-sec-2 {
     margin-left: 46%;
+}
+
+#sec2-div1 {
+    margin-left: 35%;
+    margin-right: 35%;
+}
+
+.donate-plan {
+    width: 17%;
+    padding: 1% 0% 1% 2%;
+
+
+
+}
+
+.donate-plan p {
+    padding-right: 30%;
+}
+
+
+#sec2-div1 p {
+    text-align: center;
+}
+
+#sec2-div1 h1 {
+    padding-left: 4%;
+}
+
+.donate-plan-div {
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+#food-for-family {
+    margin-right: 5%;
+    margin-left: 14%;
+    background-color: rgb(222, 246, 244);
+}
+
+#shelter-for-family {
+    margin-right: 5%;
+    background-color: rgb(240, 212, 234);
+}
+
+#education-for-child {
+    background-color: rgb(250, 233, 217);
+}
+
+#wide-half {
+    width: 50%;
 }
