@@ -218,7 +218,7 @@ hr {
 
 footer {
 
-    padding-left: 45%;
+    padding-left: 40%;
     background-color: black;
 
     padding-top: 5%;
@@ -228,14 +228,14 @@ footer {
 
 footer h1 {
     font-family: 'Lobster', cursive;
-    padding-left: 5%;
+    padding-left: 8%;
     color: rgb(199, 102, 126);
     font-size: 40px;
 
 }
 
 footer p {
-    padding-left: 7%;
+    padding-left: 0%;
 
     color: white;
 }
