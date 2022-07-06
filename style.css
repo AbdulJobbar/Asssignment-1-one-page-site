@@ -252,12 +252,16 @@ footer p {
 #form {
     background-color: rgb(240, 172, 160);
     padding: 5%;
-    margin-left: 20%;
-    margin-right: 20%;
+    margin-left: 25%;
+    margin-right: 25%;
 }
 
-#form p {
-    color: aliceblue;
+#form-div-margin {
+    margin-left: 8%;
+}
+
+small {
+    color: rgb(255, 255, 255);
 }
 
 #explore-helpless {
