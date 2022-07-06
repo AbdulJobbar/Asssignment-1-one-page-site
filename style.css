@@ -16,7 +16,7 @@ input {
 
 }
 
-small {
+#Let-help {
     color: rgb(240, 116, 49);
 }
 
@@ -68,6 +68,10 @@ small {
 #div-2 h1 {
     padding-left: 20%;
     font-size: 50px;
+}
+
+#div-2 p {
+    text-align: center;
 }
 
 #div-3 {
@@ -250,7 +254,7 @@ footer p {
 }
 
 #form {
-    background-color: rgb(240, 172, 160);
+    background-color: rgb(237, 226, 224);
     padding: 5%;
     margin-left: 25%;
     margin-right: 25%;
