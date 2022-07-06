@@ -194,4 +194,48 @@ hr {
 
 #image-padding {
     padding-right: 1%;
+    border-radius: 5px;
+}
+
+#get-my-updates {
+    padding-left: 30%;
+    padding-right: 30%;
+}
+
+#get-my-updates h1 {
+    font-size: 45px;
+    padding-left: 15%;
+}
+
+#get-my-updates p {
+    text-align: center;
+}
+
+footer {
+
+    padding-left: 45%;
+    background-color: black;
+
+    padding-top: 5%;
+    padding-bottom: 5%;
+
+}
+
+footer h1 {
+    font-family: 'Lobster', cursive;
+    padding-left: 5%;
+    color: rgb(199, 102, 126);
+    font-size: 40px;
+
+}
+
+footer p {
+    padding-left: 7%;
+
+    color: white;
+}
+
+#last-img {
+    width: 800px;
+    padding-left: 25%;
 }
